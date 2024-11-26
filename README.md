@@ -91,4 +91,24 @@ Employee's Boss - Employee: An employee who is a boss can look over many employe
 ### Table: Inventory
 <img width="973" alt="inventory" src="https://github.com/user-attachments/assets/dd880c5b-023e-43d9-94d9-3e8fd51c6a0e">
 
-## Ten Queries:
+## Five Queries:
+
+Query #1: Generate a report that shows the total sales for each store. At the end of the list, include a row showing the grand total sales across all stores.
+
+Query #2: Give a monthly breakdown of the total number of transactions and total sales for each store. Make this a stored procedure so that each store can be called for, then call up “Boba Bliss”.
+
+Query #3: List all customers along with their loyalty program details, including customers who may not have a loyalty program and loyalty programs that are not linked to any customer. For each customer, show their ID, first name, last name, loyalty program ID, and total points. Show in descending order.
+
+Query #4: List all drinks that have been sold, and then list drinks that have not been sold. Show in descending order. 
+
+Query #5: 
+
+## Three Visualizations:
+
+Visualization #1:
+
+Visualization #2:
+
+Visualization #3:
+
+
