@@ -95,13 +95,23 @@ Employee's Boss - Employee: An employee who is a boss can look over many employe
 
 Query #1: Generate a report that shows the total sales for each store. At the end of the list, include a row showing the grand total sales across all stores.
 
+
+
 Query #2: Give a monthly breakdown of the total number of transactions and total sales for each store. Make this a stored procedure so that each store can be called for, then call up “Boba Bliss”.
+
+
 
 Query #3: List all customers along with their loyalty program details, including customers who may not have a loyalty program and loyalty programs that are not linked to any customer. For each customer, show their ID, first name, last name, loyalty program ID, and total points. Show in descending order.
 
+
+
 Query #4: List all drinks that have been sold, and then list drinks that have not been sold. Show in descending order. 
 
-Query #5: 
+
+
+Query #5: List all the customers’ first and last name  (even if they did not make a transaction) with the total amount they spent in stores in ascending order. 
+
+
 
 ## Three Visualizations:
 
