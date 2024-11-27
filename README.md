@@ -95,10 +95,14 @@ Employee's Boss - Employee: An employee who is a boss can look over many employe
 
 Query #1: Generate a report that shows the total sales for each store. At the end of the list, include a row showing the grand total sales across all stores.
 
+This report displays the total sales for each store along with the grand total sales across all stores. It can help a manager analyze individual store performance and make data-driven decisions.
+
 <img width="385" alt="Screenshot 2024-11-27 at 4 13 35 PM" src="https://github.com/user-attachments/assets/9cbca2a0-b7ea-47a0-9f10-1a82df495769">
 <img width="135" alt="Screenshot 2024-11-27 at 4 12 16 PM" src="https://github.com/user-attachments/assets/92457a60-b19d-4c23-b6b8-898e6c7ec742">
 
 Query #2: Give a monthly breakdown of the total number of transactions and total sales for each store. Make this a stored procedure so that each store can be called for, then call up “Boba Bliss”.
+
+This query is relevant for a manager because it provides actionable insights into the sales performance of individual stores on a monthly basis. It helps the manager to identify performance trends, optimize operations, and make strategic decisions regarding staffing, inventory, and marketing. The stored procedure also makes each store's information easily accessible. 
 
 <img width="402" alt="Screenshot 2024-11-27 at 4 15 26 PM" src="https://github.com/user-attachments/assets/fd95af64-a3fd-4e33-86f8-c721956e5f28">
 <img width="213" alt="Screenshot 2024-11-27 at 4 15 39 PM" src="https://github.com/user-attachments/assets/8d2ff4b7-849b-4b40-aa39-6e1b2ae8121e">
@@ -107,15 +111,21 @@ Query #2: Give a monthly breakdown of the total number of transactions and total
 
 Query #3: List all customers along with their loyalty program details, including customers who may not have a loyalty program and loyalty programs that are not linked to any customer. For each customer, show their ID, first name, last name, loyalty program ID, and total points. Show in descending order.
 
+This query is valuable for a manager as it provides a complete view of customer engagement with loyalty programs. It highlights both active and inactive participants, as well as loyalty programs with no customers. This data helps the manager assess program effectiveness, identify opportunities for customer retention, and make informed decisions about marketing and loyalty initiatives.
+
 <img width="312" alt="Screenshot 2024-11-27 at 4 17 46 PM" src="https://github.com/user-attachments/assets/120d52d5-e813-471a-9d91-f845c1e78868">
 <img width="139" alt="Screenshot 2024-11-27 at 4 18 06 PM" src="https://github.com/user-attachments/assets/79613235-f100-4fd2-b6da-6643104e1f83">
 
 Query #4: List all drinks that have been sold, and then list drinks that have not been sold. Show in descending order. 
 
+This query helps the manager track drink sales and identify both popular and underperforming products. It enables informed decisions regarding inventory, menu changes, and marketing strategies, ultimately driving sales and customer satisfaction.
+
 <img width="310" alt="Screenshot 2024-11-27 at 4 18 45 PM" src="https://github.com/user-attachments/assets/9e750b24-2dab-4628-b756-a49f6e36d502">
 <img width="125" alt="Screenshot 2024-11-27 at 4 18 56 PM" src="https://github.com/user-attachments/assets/6954c3e3-9722-43fc-b1c2-6cc4ff1a767d">
 
 Query #5: List all the customers’ first and last name  (even if they did not make a transaction) with the total amount they spent in stores in ascending order. 
+
+This query is useful for a manager as it provides a comprehensive view of customer spending, enabling better segmentation, targeted marketing, and customer retention strategies. By identifying both high-value and low/no-spend customers, the manager can optimize sales efforts, improve customer engagement, and drive overall business growth.
 
 <img width="471" alt="Screenshot 2024-11-27 at 4 19 39 PM" src="https://github.com/user-attachments/assets/713c9870-d42c-4f63-a8bd-c8d7049accc4">
 <img width="105" alt="Screenshot 2024-11-27 at 4 19 54 PM" src="https://github.com/user-attachments/assets/ae064127-9ff7-48d1-8ea6-83b984166012">
