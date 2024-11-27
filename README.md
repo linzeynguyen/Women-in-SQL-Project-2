@@ -132,14 +132,29 @@ This query is useful for a manager as it provides a comprehensive view of custom
 
 ## Three Visualizations:
 
-Visualization #1: Show drink performance by total profit, total quantity sold, and total revenue for each drink and highlight the best performer.
+Visualization #1: Show drink performance by total profit, total quantity sold, and total revenue for each drink. Highlight the best performer and list in descending order.
 
 A visualization of drink performance based on total profit, total quantity sold, and total revenue provides a powerful tool for managers to monitor and analyze the success of their product offerings. It allows for quick identification of best-performing drinks, informs strategic decisions regarding marketing, inventory, and sales, and ultimately helps maximize profitability and customer satisfaction.
 
 <img width="528" alt="Screenshot 2024-11-27 at 4 21 41 PM" src="https://github.com/user-attachments/assets/14541687-9848-4685-b759-357ffe85bccb">
 
-Visualization #2:
+Visualization #2: Show store performace by revenue and list in descending order from most generated revenue to least generated revenue. 
 
-Visualization #3:
+This store performance visualization helps managers identify top-performing stores and optimize sales strategies. It provides insights for improving underperforming locations, managing resources effectively, and making informed decisions to drive revenue growth.
 
+<img width="640" alt="Screenshot 2024-11-27 at 6 16 56 PM" src="https://github.com/user-attachments/assets/40c7ca7b-ddad-4686-b921-4eac644cc158">
+
+Visualization #3: Show the quantity of drinks ordered per flavor.
+
+This visualization enables managers to identify top-performing and underperforming drink flavors, helping them make data-driven decisions on inventory, promotions, and menu adjustments. It provides clear insights into customer preferences, allowing for better alignment of offerings with market demand.
+
+<img width="458" alt="Screenshot 2024-11-27 at 6 17 32 PM" src="https://github.com/user-attachments/assets/7620c891-339c-4b1f-ae71-281a2ea4c013">
+
+## Database Information:
+
+
+
+Name of the database: cs_asp54028
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Qx; (where x is to be replaced by the query number).
 
