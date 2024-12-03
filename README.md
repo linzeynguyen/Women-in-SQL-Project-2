@@ -158,5 +158,10 @@ This visualization enables managers to identify top-performing and underperformi
 
 <img width="458" alt="Screenshot 2024-11-27 at 6 17 32 PM" src="https://github.com/user-attachments/assets/7620c891-339c-4b1f-ae71-281a2ea4c013">
 
+### Dashboard
+
+![dashboard](https://github.com/user-attachments/assets/a0c6d3db-a552-4945-9cd9-17401eceb947)
+
+
 ## Implementation of Database:
 
