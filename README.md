@@ -165,6 +165,8 @@ This visualization enables managers to identify top-performing and underperformi
 
 ## Implementation of Database:
 
+<img width="470" alt="Screenshot 2024-12-03 at 5 01 39 PM" src="https://github.com/user-attachments/assets/b1186da2-c935-4d6d-b4f2-6d018354f348">
+
 Name of the database: cs_asp54028
 
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL Qx(); (where x is to be replaced by the query number).
